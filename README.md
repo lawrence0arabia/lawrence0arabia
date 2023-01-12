@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @lawrence0arabia
-- 👀 I’m interested in cyber security and software development.
-- 🌱 I’m currently learning JavaScript.
-- 💞️ I’m looking to collaborate on interesting projects.
+- 👀 I’m interested in cyber security and software development
+- 🌱 I’m currently learning JavaScript
+- 💞️ I’m looking to collaborate on interesting projects
 - 📫 How to reach me [ryan.surf](https://ryan.surf/)
 
 <!---
