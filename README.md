@@ -2,7 +2,7 @@
 - 👀 I’m interested in cyber security and software development
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on interesting projects
-- 📫 How to reach me [ryan.surf](https://ryan.surf/)
+- 📫 How to reach me [ryza.site](https://ryza.site/)
 
 <!---
 lawrence0arabia/lawrence0arabia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
