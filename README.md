@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lawrence0arabia
 - 👀 I’m interested in cyber security and software development
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning TypeScript
 - 💞️ I’m looking to collaborate on interesting projects
 - 📫 How to reach me [ryza.site](https://ryza.site/)
 
