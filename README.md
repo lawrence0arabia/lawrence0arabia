@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lawrence0arabia
-- 👀 I’m interested in cyber security and software development
-- 🌱 I’m currently learning TypeScript
+- 👀 I’m interested in cyber security, cloud, and DevOps
+- 🌱 I’m currently learning TypeScript, Rust, and Linux ricing w/ Hyprland 
 - 💞️ I’m looking to collaborate on interesting projects
 - 📫 Keep up with my [ryanigans](https://ryanigans.com/)
 
